@@ -5,4 +5,4 @@
 ---
 ![alt text](img/index_pc.jpg)
 ---
-![alt text](phone_data.jpg)
+![alt text](img/phone_data.jpg)
